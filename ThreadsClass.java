@@ -22,5 +22,10 @@ public class ThreadsClass {
         }
         mt1.join(1);
         // wait for the thread to be completed in this time
+        boolean status = mt1.isAlive();
+        if(status){
+            mt1.interrupt();
+        }
+
     }
 }
