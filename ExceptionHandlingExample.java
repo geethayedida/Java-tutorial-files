@@ -1,4 +1,4 @@
-package com.first.Jan92016.JavaTutorial;
+package Jan92016.JavaTutorial;
 
 import java.util.Scanner;
 

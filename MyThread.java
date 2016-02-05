@@ -1,4 +1,4 @@
-package com.first.Jan92016.JavaTutorial;
+package Jan92016.JavaTutorial;
 
 /**
  * Created by Geetha Yedida on 1/23/2016.
